@@ -1,9 +1,4 @@
-root{
-    --branco-principal:#ffffff;
-    --cinza-secundário:#c0c0c0;
-    --botãoverflow: azul #167bf7;
-    --cor-de-fundo:#00030c;
-    
-
-
+header {
+    background-color: #424E61;
+    color: white;
 }
